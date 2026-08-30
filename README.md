@@ -1,16 +1,12 @@
-## Hi there 👋
-
-<!--
-**JaKzMadness/JaKzMadness** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+CONFIG
+FULL_NAME: Simón Enrique Zapata Claros
+GITHUB_USER: JaKzMadness
 -->
+
+Estudiante de Sexto Semestre de Ingeniería Mecatrónica en la Corporación Universitaria del Huila - CORHUILA.
+
+Mis gustos:
+- Videojuegos.
+- Programación (Python básico)
+- Música
+- Diseño 3D (SolidWorks)
